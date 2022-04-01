@@ -1,0 +1,189 @@
+
+Pubmed-entry ::= {
+  pmid 22550110,
+  medent {
+    em std {
+      year 2012,
+      month 5,
+      day 3,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "An online community of inquiry for reflective practice in an
+ operative dentistry course."
+      },
+      authors {
+        names std {
+          {
+            name ml "Gardner K",
+            affil str "Department of Oral Health Sciences, University of
+ British Columbia, Vancouver, British Columbia V6T 1Z3, Canada.
+ drkg@interchange.ubc.ca"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Dent Educ",
+          ml-jta "J Dent Educ",
+          issn "1930-7837",
+          name "Journal of dental education"
+        },
+        imp {
+          date std {
+            year 2012,
+            month 5
+          },
+          volume "76",
+          issue "5",
+          pages "641-650",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2012,
+                month 5,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2012,
+                month 5,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2012,
+                month 7,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 22550110,
+        pii "76/5/641"
+      }
+    },
+    abstract "Online learning communities are entering the realm of web-based
+ learning as a means of reflective collaborative learning. The purpose of this
+ article is to describe the formation of an online learning community using a
+ community of inquiry (COI) conceptual framework. Operative clinical
+ simulation dental students at the University of British Columbia in Canada
+ have been involved in an online COI for the past five years. This descriptive
+ article presents an overview of the experiences involved in developing this
+ COI and provides a conceptual framework for an online COI.",
+    mesh {
+      {
+        term "Blogging"
+      },
+      {
+        term "British Columbia"
+      },
+      {
+        term "Cognition"
+      },
+      {
+        term "Communication"
+      },
+      {
+        term "Computer Literacy"
+      },
+      {
+        term "Computer Simulation"
+      },
+      {
+        term "Computer-Assisted Instruction"
+      },
+      {
+        mp TRUE,
+        term "Dental Informatics"
+      },
+      {
+        term "Dentistry, Operative",
+        qual {
+          {
+            mp TRUE,
+            subh "education"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Education, Dental"
+      },
+      {
+        term "Educational Technology"
+      },
+      {
+        term "Evidence-Based Dentistry",
+        qual {
+          {
+            subh "education"
+          }
+        }
+      },
+      {
+        term "Faculty, Dental"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Interpersonal Relations"
+      },
+      {
+        term "Learning"
+      },
+      {
+        mp TRUE,
+        term "Online Systems"
+      },
+      {
+        term "Psychomotor Performance"
+      },
+      {
+        term "Social Media"
+      },
+      {
+        term "Social Networking"
+      },
+      {
+        term "Software Design"
+      },
+      {
+        term "Students, Dental"
+      },
+      {
+        term "Teaching",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      }
+    },
+    pmid 22550110,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+

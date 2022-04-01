@@ -1,0 +1,184 @@
+
+Pubmed-entry ::= {
+  pmid 20388817,
+  medent {
+    em std {
+      year 2010,
+      month 4,
+      day 15,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Health Information Technology Systems profoundly impact users: a
+ case study in a dental school."
+      },
+      authors {
+        names std {
+          {
+            name ml "Hill HK",
+            affil str "Department of Medical Informatics and Clinical
+ Epidemiology, School of Medicine, Oregon Health & Science University, USA.
+ hillhe@ohsu.edu"
+          },
+          {
+            name ml "Stewart DC"
+          },
+          {
+            name ml "Ash JS"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Dent Educ",
+          ml-jta "J Dent Educ",
+          issn "1930-7837",
+          name "Journal of dental education"
+        },
+        imp {
+          date std {
+            year 2010,
+            month 4
+          },
+          volume "74",
+          issue "4",
+          pages "434-445",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2010,
+                month 4,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2010,
+                month 4,
+                day 15,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2010,
+                month 5,
+                day 1,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 20388817,
+        pii "74/4/434"
+      }
+    },
+    abstract "The purpose of this study was to increase our understanding of
+ the impact of Health Information Technology Systems (HITS) on dental school
+ users when the systems are integrated into chair-side patient care. We used
+ qualitative research methods, including interviews, focus groups, and
+ observations, to capture the experiences of HITS users at a single
+ institution. Users included administrators, clinical faculty members,
+ predoctoral students, support staff, and residents. The data were analyzed
+ using a grounded theory approach, and nine themes emerged: 1) HITS benefits
+ were disproportionate among users; 2) communicating about the HITS was
+ challenging; 3) users experienced a range of strong emotions; 4) the
+ instructor persona diminished; 5) there were shifts in the school's power
+ structure; 6) allocation of end-users' time shifted; 7) the training and
+ support needs of end-users were significant; 8) perceived lack of HITS
+ usability made documentation cumbersome for clinicians; and 9) clinicians'
+ workflow was disrupted. HITS integration into patient care impacts the work
+ of all system users, especially end-users. The themes highlight areas of
+ potential concern for implementers and users in integrating a HITS into
+ patient care.",
+    mesh {
+      {
+        term "Attitude of Health Personnel"
+      },
+      {
+        term "Communication Barriers"
+      },
+      {
+        term "Computer User Training"
+      },
+      {
+        term "Dental Clinics"
+      },
+      {
+        mp TRUE,
+        term "Dental Informatics"
+      },
+      {
+        term "Dental Records"
+      },
+      {
+        term "Education, Dental",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Educational Technology"
+      },
+      {
+        mp TRUE,
+        term "Electronic Health Records"
+      },
+      {
+        term "Humans"
+      },
+      {
+        mp TRUE,
+        term "Integrated Advanced Information Management Systems"
+      },
+      {
+        term "Organizational Case Studies"
+      },
+      {
+        term "Pediatric Dentistry",
+        qual {
+          {
+            mp TRUE,
+            subh "education"
+          }
+        }
+      },
+      {
+        term "Qualitative Research"
+      },
+      {
+        mp TRUE,
+        term "Schools, Dental"
+      },
+      {
+        term "Workflow"
+      }
+    },
+    idnum {
+      "R01 LM006942/LM/NLM NIH HHS"
+    },
+    pmid 20388817,
+    pub-type {
+      "Evaluation Study",
+      "Journal Article"
+    },
+    status medline
+  }
+}
+

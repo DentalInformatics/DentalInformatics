@@ -1,0 +1,162 @@
+
+Pubmed-entry ::= {
+  pmid 18487785,
+  medent {
+    em std {
+      year 2008,
+      month 5,
+      day 20,
+      hour 9,
+      minute 0
+    },
+    cit {
+      title {
+        name "Voice-controlled data entry in dental electronic health record."
+      },
+      authors {
+        names std {
+          {
+            name ml "Nagy M",
+            affil str "EuroMISE Center, Department of Medical Informatics,
+ Institute of Computer Science, AS CR, v.v.i., Prague, Czech Republic.
+ nagy@euromise.cz"
+          },
+          {
+            name ml "Hanzlicek P"
+          },
+          {
+            name ml "Zvarova J"
+          },
+          {
+            name ml "Dostalova T"
+          },
+          {
+            name ml "Seydlova M"
+          },
+          {
+            name ml "Hippman R"
+          },
+          {
+            name ml "Smidl L"
+          },
+          {
+            name ml "Trmal J"
+          },
+          {
+            name ml "Psutka J"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Stud Health Technol Inform",
+          ml-jta "Stud Health Technol Inform",
+          issn "0926-9630",
+          name "Studies in health technology and informatics"
+        },
+        imp {
+          date std {
+            year 2008
+          },
+          volume "136",
+          pages "529-534",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2008,
+                month 5,
+                day 20,
+                hour 9,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2008,
+                month 10,
+                day 1,
+                hour 9,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2008,
+                month 5,
+                day 20,
+                hour 9,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 18487785
+      }
+    },
+    abstract "The EuroMISE Center focuses on new approaches in the field of
+ electronic health record (EHR). Among others, the structured health
+ documentation in dentistry in the form of an EHR is being systematically
+ studied. This paper describes the evolution of the EHR developed at the
+ EuroMISE Center named MUDRLite and its graphical component for dentists
+ called DentCross. The summary of features of the DentCross component is
+ followed by a brief description of automatic speech recognition and an ASR
+ module. The problems with data insertion into EHR during examination of a
+ dental patient lead to further research in the area of the automatic speech
+ recognition in medical practice. Cooperation of engineers, informaticians and
+ dental physicians resulted in an application called DentVoice which is a
+ successful application of the ASR module and the DentCross component of the
+ MUDRLite EHR. The junction of voice control and graphical representation of
+ dental arch makes hand-busy activities in dental praxis easier, quicker and
+ more comfortable. This will result in a better quality of the data stored in
+ a structured form in dental EHR, thus enabling better decision making and use
+ of decision support systems.",
+    mesh {
+      {
+        term "Computer Graphics"
+      },
+      {
+        mp TRUE,
+        term "Dental Records"
+      },
+      {
+        mp TRUE,
+        term "Information Storage and Retrieval"
+      },
+      {
+        term "Knowledge Bases"
+      },
+      {
+        term "Medical Informatics Applications"
+      },
+      {
+        mp TRUE,
+        term "Medical Records Systems, Computerized"
+      },
+      {
+        term "Software Design"
+      },
+      {
+        mp TRUE,
+        term "Speech Recognition Software"
+      },
+      {
+        mp TRUE,
+        term "User-Computer Interface"
+      }
+    },
+    pmid 18487785,
+    pub-type {
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    },
+    status medline
+  }
+}
+

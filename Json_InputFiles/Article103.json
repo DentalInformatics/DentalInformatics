@@ -1,0 +1,231 @@
+
+Pubmed-entry ::= {
+  pmid 20930236,
+  medent {
+    em std {
+      year 2010,
+      month 10,
+      day 9,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Consortium for oral health-related informatics: improving dental
+ research, education, and treatment."
+      },
+      authors {
+        names std {
+          {
+            name ml "Stark PC",
+            affil str "Tufts University School of Dental Medicine, 75 Kneeland
+ Street, Suite 105, Boston, MA 02111, USA. Paul.Stark@tufts.edu"
+          },
+          {
+            name ml "Kalenderian E"
+          },
+          {
+            name ml "White JM"
+          },
+          {
+            name ml "Walji MF"
+          },
+          {
+            name ml "Stewart DC"
+          },
+          {
+            name ml "Kimmes N"
+          },
+          {
+            name ml "Meng TR Jr"
+          },
+          {
+            name ml "Willis GP"
+          },
+          {
+            name ml "DeVries T"
+          },
+          {
+            name ml "Chapman RJ"
+          },
+          {
+            name consortium "Consortium for Oral Health-Related Informatics
+ (COHRI)"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Dent Educ",
+          ml-jta "J Dent Educ",
+          issn "1930-7837",
+          name "Journal of dental education"
+        },
+        imp {
+          date std {
+            year 2010,
+            month 10
+          },
+          volume "74",
+          issue "10",
+          pages "1051-1065",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2010,
+                month 10,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2010,
+                month 10,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2010,
+                month 10,
+                day 26,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 20930236,
+        pii "74/10/1051",
+        other {
+          db "pmc",
+          tag str "PMC3114442"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS297965"
+        }
+      }
+    },
+    abstract "Advances in informatics, particularly the implementation of
+ electronic health records (EHR), in dentistry have facilitated the exchange
+ of information. The majority of dental schools in North America use the same
+ EHR system, providing an unprecedented opportunity to integrate these data
+ into a repository that can be used for oral health education and research. In
+ 2007, fourteen dental schools formed the Consortium for Oral Health-Related
+ Informatics (COHRI). Since its inception, COHRI has established structural
+ and operational processes, governance and bylaws, and a number of work groups
+ organized in two divisions: one focused on research (data standardization,
+ integration, and analysis), and one focused on education (performance
+ evaluations, virtual standardized patients, and objective structured clinical
+ examinations). To date, COHRI (which now includes twenty dental schools) has
+ been successful in developing a data repository, pilot-testing data
+ integration, and sharing EHR enhancements among the group. This consortium
+ has collaborated on standardizing medical and dental histories, developing
+ diagnostic terminology, and promoting the utilization of informatics in
+ dental education. The consortium is in the process of assembling the largest
+ oral health database ever created. This will be an invaluable resource for
+ research and provide a foundation for evidence-based dentistry for years to
+ come.",
+    mesh {
+      {
+        term "Canada"
+      },
+      {
+        mp TRUE,
+        term "Databases, Factual"
+      },
+      {
+        term "Dental Care"
+      },
+      {
+        term "Dental Informatics",
+        qual {
+          {
+            mp TRUE,
+            subh "organization & administration"
+          }
+        }
+      },
+      {
+        term "Dental Records",
+        qual {
+          {
+            subh "standards"
+          }
+        }
+      },
+      {
+        term "Dental Research",
+        qual {
+          {
+            mp TRUE,
+            subh "organization & administration"
+          }
+        }
+      },
+      {
+        term "Education, Dental",
+        qual {
+          {
+            mp TRUE,
+            subh "organization & administration"
+          }
+        }
+      },
+      {
+        term "Electronic Health Records"
+      },
+      {
+        term "Focus Groups"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Interinstitutional Relations"
+      },
+      {
+        term "Organizational Objectives"
+      },
+      {
+        term "Organizations, Nonprofit"
+      },
+      {
+        term "Schools, Dental",
+        qual {
+          {
+            mp TRUE,
+            subh "organization & administration"
+          }
+        }
+      },
+      {
+        term "United States"
+      }
+    },
+    idnum {
+      "G08 LM010075/LM/NLM NIH HHS",
+      "G08 LM010075-01/LM/NLM NIH HHS",
+      "G08LM010075/LM/NLM NIH HHS"
+    },
+    pmid 20930236,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    },
+    status medline
+  }
+}
+

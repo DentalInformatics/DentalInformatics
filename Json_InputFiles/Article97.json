@@ -1,0 +1,234 @@
+
+Pubmed-entry ::= {
+  pmid 22550104,
+  medent {
+    em std {
+      year 2012,
+      month 5,
+      day 3,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Ethics and the electronic health record in dental school clinics."
+      },
+      authors {
+        names std {
+          {
+            name ml "Cederberg RA",
+            affil str "Department of Restorative Dentistry and Biomaterials,
+ Univer-sity of Texas Health Science Center at Houston School of Dentistry,
+ Houston, TX 77030, USA. Robert.A.Cederberg@uth.tmc.edu"
+          },
+          {
+            name ml "Valenza JA"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Dent Educ",
+          ml-jta "J Dent Educ",
+          issn "1930-7837",
+          name "Journal of dental education"
+        },
+        imp {
+          date std {
+            year 2012,
+            month 5
+          },
+          volume "76",
+          issue "5",
+          pages "584-589",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2012,
+                month 5,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2012,
+                month 5,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2012,
+                month 7,
+                day 20,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 22550104,
+        pii "76/5/584"
+      }
+    },
+    abstract "Electronic health records (EHRs) are a major development in the
+ practice of dentistry, and dental schools and dental curricula have
+ benefitted from this technology. Patient data entry, storage, retrieval,
+ transmission, and archiving have been streamlined, and the potential for
+ teledentistry and improvement in epidemiological research is beginning to be
+ realized. However, maintaining patient health information in an electronic
+ form has also changed the environment in dental education, setting up
+ potential ethical dilemmas for students and faculty members. The purpose of
+ this article is to explore some of the ethical issues related to EHRs, the
+ advantages and concerns related to the use of computers in the dental
+ operatory, the impact of the EHR on the doctor-patient relationship, the
+ introduction of web-based EHRs, the link between technology and ethics, and
+ potential solutions for the management of ethical concerns related to EHRs in
+ dental schools.",
+    mesh {
+      {
+        term "Computer Security",
+        qual {
+          {
+            subh "ethics"
+          }
+        }
+      },
+      {
+        term "Confidentiality",
+        qual {
+          {
+            subh "ethics"
+          }
+        }
+      },
+      {
+        term "Deception"
+      },
+      {
+        term "Dental Care",
+        qual {
+          {
+            subh "ethics"
+          }
+        }
+      },
+      {
+        term "Dental Clinics",
+        qual {
+          {
+            mp TRUE,
+            subh "ethics"
+          }
+        }
+      },
+      {
+        term "Dental Informatics",
+        qual {
+          {
+            subh "ethics"
+          }
+        }
+      },
+      {
+        term "Dental Records"
+      },
+      {
+        term "Dentist-Patient Relations",
+        qual {
+          {
+            subh "ethics"
+          }
+        }
+      },
+      {
+        term "Education, Dental",
+        qual {
+          {
+            subh "ethics"
+          }
+        }
+      },
+      {
+        term "Electronic Health Records",
+        qual {
+          {
+            mp TRUE,
+            subh "ethics"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Ethics, Dental"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Information Storage and Retrieval",
+        qual {
+          {
+            subh "ethics"
+          }
+        }
+      },
+      {
+        term "Information Systems",
+        qual {
+          {
+            subh "ethics"
+          }
+        }
+      },
+      {
+        term "Internet",
+        qual {
+          {
+            subh "ethics"
+          }
+        }
+      },
+      {
+        term "Professional Misconduct",
+        qual {
+          {
+            subh "ethics"
+          }
+        }
+      },
+      {
+        term "Schools, Dental",
+        qual {
+          {
+            mp TRUE,
+            subh "ethics"
+          }
+        }
+      },
+      {
+        term "Students, Dental"
+      },
+      {
+        term "Trust"
+      }
+    },
+    pmid 22550104,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+

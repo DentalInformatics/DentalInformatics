@@ -1,0 +1,440 @@
+
+Pubmed-entry ::= {
+  pmid 26034034,
+  medent {
+    em std {
+      year 2015,
+      month 6,
+      day 3,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Does use of an electronic health record with dental diagnostic
+ system terminology promote dental students' critical thinking?"
+      },
+      authors {
+        names std {
+          {
+            name ml "Reed SG",
+            affil str "Dr. Reed is Associate Professor, Department of
+ Pediatrics-Neonatology, College of Medicine, and Department of Stomatology,
+ James B. Edwards College of Dental Medicine, Medical University of South
+ Carolina; Dr. Adibi is Associate Professor, Department of General Practice
+ and Dental Public Health, The University of Texas School of Dentistry at
+ Houston; Dr. Coover is Assistant Professor, Department of Oral
+ Rehabilitation, James B. Edwards College of Dental Medicine, Medical
+ University of South Carolina; Dr. Gellin is Professor and Chair, Department
+ of Stomatology, James B. Edwards College of Dental Medicine, Medical
+ University of South Carolina; Ms. Wahlquist is Research Instructor,
+ Department of Public Health Sciences, Medical University of South Carolina;
+ Dr. AbdulRahiman was Research Assistant, Department of Oral Health Policy and
+ Epidemiology and student, Harvard School of Dental Medicine at the time of
+ this study; Dr. Hamil is Assistant Professor, Department of Stomatology,
+ James B. Edwards College of Dental Medicine, Medical University of South
+ Carolina; Dr. Walji is Associate Professor and Associate Dean for Technology
+ Services and Informatics, The University of Texas School of Dentistry at
+ Houston; Dr. O'Neill is Professor Emerita, The University of Texas School of
+ Dentistry at Houston; and Dr. Kalenderian is Chair and Associate Professor,
+ Department of Oral Health Policy and Epidemiology, Harvard School of Dental
+ Medicine. reedsg@musc.edu."
+          },
+          {
+            name ml "Adibi SS",
+            affil str "Dr. Reed is Associate Professor, Department of
+ Pediatrics-Neonatology, College of Medicine, and Department of Stomatology,
+ James B. Edwards College of Dental Medicine, Medical University of South
+ Carolina; Dr. Adibi is Associate Professor, Department of General Practice
+ and Dental Public Health, The University of Texas School of Dentistry at
+ Houston; Dr. Coover is Assistant Professor, Department of Oral
+ Rehabilitation, James B. Edwards College of Dental Medicine, Medical
+ University of South Carolina; Dr. Gellin is Professor and Chair, Department
+ of Stomatology, James B. Edwards College of Dental Medicine, Medical
+ University of South Carolina; Ms. Wahlquist is Research Instructor,
+ Department of Public Health Sciences, Medical University of South Carolina;
+ Dr. AbdulRahiman was Research Assistant, Department of Oral Health Policy and
+ Epidemiology and student, Harvard School of Dental Medicine at the time of
+ this study; Dr. Hamil is Assistant Professor, Department of Stomatology,
+ James B. Edwards College of Dental Medicine, Medical University of South
+ Carolina; Dr. Walji is Associate Professor and Associate Dean for Technology
+ Services and Informatics, The University of Texas School of Dentistry at
+ Houston; Dr. O'Neill is Professor Emerita, The University of Texas School of
+ Dentistry at Houston; and Dr. Kalenderian is Chair and Associate Professor,
+ Department of Oral Health Policy and Epidemiology, Harvard School of Dental
+ Medicine."
+          },
+          {
+            name ml "Coover M",
+            affil str "Dr. Reed is Associate Professor, Department of
+ Pediatrics-Neonatology, College of Medicine, and Department of Stomatology,
+ James B. Edwards College of Dental Medicine, Medical University of South
+ Carolina; Dr. Adibi is Associate Professor, Department of General Practice
+ and Dental Public Health, The University of Texas School of Dentistry at
+ Houston; Dr. Coover is Assistant Professor, Department of Oral
+ Rehabilitation, James B. Edwards College of Dental Medicine, Medical
+ University of South Carolina; Dr. Gellin is Professor and Chair, Department
+ of Stomatology, James B. Edwards College of Dental Medicine, Medical
+ University of South Carolina; Ms. Wahlquist is Research Instructor,
+ Department of Public Health Sciences, Medical University of South Carolina;
+ Dr. AbdulRahiman was Research Assistant, Department of Oral Health Policy and
+ Epidemiology and student, Harvard School of Dental Medicine at the time of
+ this study; Dr. Hamil is Assistant Professor, Department of Stomatology,
+ James B. Edwards College of Dental Medicine, Medical University of South
+ Carolina; Dr. Walji is Associate Professor and Associate Dean for Technology
+ Services and Informatics, The University of Texas School of Dentistry at
+ Houston; Dr. O'Neill is Professor Emerita, The University of Texas School of
+ Dentistry at Houston; and Dr. Kalenderian is Chair and Associate Professor,
+ Department of Oral Health Policy and Epidemiology, Harvard School of Dental
+ Medicine."
+          },
+          {
+            name ml "Gellin RG",
+            affil str "Dr. Reed is Associate Professor, Department of
+ Pediatrics-Neonatology, College of Medicine, and Department of Stomatology,
+ James B. Edwards College of Dental Medicine, Medical University of South
+ Carolina; Dr. Adibi is Associate Professor, Department of General Practice
+ and Dental Public Health, The University of Texas School of Dentistry at
+ Houston; Dr. Coover is Assistant Professor, Department of Oral
+ Rehabilitation, James B. Edwards College of Dental Medicine, Medical
+ University of South Carolina; Dr. Gellin is Professor and Chair, Department
+ of Stomatology, James B. Edwards College of Dental Medicine, Medical
+ University of South Carolina; Ms. Wahlquist is Research Instructor,
+ Department of Public Health Sciences, Medical University of South Carolina;
+ Dr. AbdulRahiman was Research Assistant, Department of Oral Health Policy and
+ Epidemiology and student, Harvard School of Dental Medicine at the time of
+ this study; Dr. Hamil is Assistant Professor, Department of Stomatology,
+ James B. Edwards College of Dental Medicine, Medical University of South
+ Carolina; Dr. Walji is Associate Professor and Associate Dean for Technology
+ Services and Informatics, The University of Texas School of Dentistry at
+ Houston; Dr. O'Neill is Professor Emerita, The University of Texas School of
+ Dentistry at Houston; and Dr. Kalenderian is Chair and Associate Professor,
+ Department of Oral Health Policy and Epidemiology, Harvard School of Dental
+ Medicine."
+          },
+          {
+            name ml "Wahlquist AE",
+            affil str "Dr. Reed is Associate Professor, Department of
+ Pediatrics-Neonatology, College of Medicine, and Department of Stomatology,
+ James B. Edwards College of Dental Medicine, Medical University of South
+ Carolina; Dr. Adibi is Associate Professor, Department of General Practice
+ and Dental Public Health, The University of Texas School of Dentistry at
+ Houston; Dr. Coover is Assistant Professor, Department of Oral
+ Rehabilitation, James B. Edwards College of Dental Medicine, Medical
+ University of South Carolina; Dr. Gellin is Professor and Chair, Department
+ of Stomatology, James B. Edwards College of Dental Medicine, Medical
+ University of South Carolina; Ms. Wahlquist is Research Instructor,
+ Department of Public Health Sciences, Medical University of South Carolina;
+ Dr. AbdulRahiman was Research Assistant, Department of Oral Health Policy and
+ Epidemiology and student, Harvard School of Dental Medicine at the time of
+ this study; Dr. Hamil is Assistant Professor, Department of Stomatology,
+ James B. Edwards College of Dental Medicine, Medical University of South
+ Carolina; Dr. Walji is Associate Professor and Associate Dean for Technology
+ Services and Informatics, The University of Texas School of Dentistry at
+ Houston; Dr. O'Neill is Professor Emerita, The University of Texas School of
+ Dentistry at Houston; and Dr. Kalenderian is Chair and Associate Professor,
+ Department of Oral Health Policy and Epidemiology, Harvard School of Dental
+ Medicine."
+          },
+          {
+            name ml "AbdulRahiman A",
+            affil str "Dr. Reed is Associate Professor, Department of
+ Pediatrics-Neonatology, College of Medicine, and Department of Stomatology,
+ James B. Edwards College of Dental Medicine, Medical University of South
+ Carolina; Dr. Adibi is Associate Professor, Department of General Practice
+ and Dental Public Health, The University of Texas School of Dentistry at
+ Houston; Dr. Coover is Assistant Professor, Department of Oral
+ Rehabilitation, James B. Edwards College of Dental Medicine, Medical
+ University of South Carolina; Dr. Gellin is Professor and Chair, Department
+ of Stomatology, James B. Edwards College of Dental Medicine, Medical
+ University of South Carolina; Ms. Wahlquist is Research Instructor,
+ Department of Public Health Sciences, Medical University of South Carolina;
+ Dr. AbdulRahiman was Research Assistant, Department of Oral Health Policy and
+ Epidemiology and student, Harvard School of Dental Medicine at the time of
+ this study; Dr. Hamil is Assistant Professor, Department of Stomatology,
+ James B. Edwards College of Dental Medicine, Medical University of South
+ Carolina; Dr. Walji is Associate Professor and Associate Dean for Technology
+ Services and Informatics, The University of Texas School of Dentistry at
+ Houston; Dr. O'Neill is Professor Emerita, The University of Texas School of
+ Dentistry at Houston; and Dr. Kalenderian is Chair and Associate Professor,
+ Department of Oral Health Policy and Epidemiology, Harvard School of Dental
+ Medicine."
+          },
+          {
+            name ml "Hamil LH",
+            affil str "Dr. Reed is Associate Professor, Department of
+ Pediatrics-Neonatology, College of Medicine, and Department of Stomatology,
+ James B. Edwards College of Dental Medicine, Medical University of South
+ Carolina; Dr. Adibi is Associate Professor, Department of General Practice
+ and Dental Public Health, The University of Texas School of Dentistry at
+ Houston; Dr. Coover is Assistant Professor, Department of Oral
+ Rehabilitation, James B. Edwards College of Dental Medicine, Medical
+ University of South Carolina; Dr. Gellin is Professor and Chair, Department
+ of Stomatology, James B. Edwards College of Dental Medicine, Medical
+ University of South Carolina; Ms. Wahlquist is Research Instructor,
+ Department of Public Health Sciences, Medical University of South Carolina;
+ Dr. AbdulRahiman was Research Assistant, Department of Oral Health Policy and
+ Epidemiology and student, Harvard School of Dental Medicine at the time of
+ this study; Dr. Hamil is Assistant Professor, Department of Stomatology,
+ James B. Edwards College of Dental Medicine, Medical University of South
+ Carolina; Dr. Walji is Associate Professor and Associate Dean for Technology
+ Services and Informatics, The University of Texas School of Dentistry at
+ Houston; Dr. O'Neill is Professor Emerita, The University of Texas School of
+ Dentistry at Houston; and Dr. Kalenderian is Chair and Associate Professor,
+ Department of Oral Health Policy and Epidemiology, Harvard School of Dental
+ Medicine."
+          },
+          {
+            name ml "Walji MF",
+            affil str "Dr. Reed is Associate Professor, Department of
+ Pediatrics-Neonatology, College of Medicine, and Department of Stomatology,
+ James B. Edwards College of Dental Medicine, Medical University of South
+ Carolina; Dr. Adibi is Associate Professor, Department of General Practice
+ and Dental Public Health, The University of Texas School of Dentistry at
+ Houston; Dr. Coover is Assistant Professor, Department of Oral
+ Rehabilitation, James B. Edwards College of Dental Medicine, Medical
+ University of South Carolina; Dr. Gellin is Professor and Chair, Department
+ of Stomatology, James B. Edwards College of Dental Medicine, Medical
+ University of South Carolina; Ms. Wahlquist is Research Instructor,
+ Department of Public Health Sciences, Medical University of South Carolina;
+ Dr. AbdulRahiman was Research Assistant, Department of Oral Health Policy and
+ Epidemiology and student, Harvard School of Dental Medicine at the time of
+ this study; Dr. Hamil is Assistant Professor, Department of Stomatology,
+ James B. Edwards College of Dental Medicine, Medical University of South
+ Carolina; Dr. Walji is Associate Professor and Associate Dean for Technology
+ Services and Informatics, The University of Texas School of Dentistry at
+ Houston; Dr. O'Neill is Professor Emerita, The University of Texas School of
+ Dentistry at Houston; and Dr. Kalenderian is Chair and Associate Professor,
+ Department of Oral Health Policy and Epidemiology, Harvard School of Dental
+ Medicine."
+          },
+          {
+            name ml "O'Neill P",
+            affil str "Dr. Reed is Associate Professor, Department of
+ Pediatrics-Neonatology, College of Medicine, and Department of Stomatology,
+ James B. Edwards College of Dental Medicine, Medical University of South
+ Carolina; Dr. Adibi is Associate Professor, Department of General Practice
+ and Dental Public Health, The University of Texas School of Dentistry at
+ Houston; Dr. Coover is Assistant Professor, Department of Oral
+ Rehabilitation, James B. Edwards College of Dental Medicine, Medical
+ University of South Carolina; Dr. Gellin is Professor and Chair, Department
+ of Stomatology, James B. Edwards College of Dental Medicine, Medical
+ University of South Carolina; Ms. Wahlquist is Research Instructor,
+ Department of Public Health Sciences, Medical University of South Carolina;
+ Dr. AbdulRahiman was Research Assistant, Department of Oral Health Policy and
+ Epidemiology and student, Harvard School of Dental Medicine at the time of
+ this study; Dr. Hamil is Assistant Professor, Department of Stomatology,
+ James B. Edwards College of Dental Medicine, Medical University of South
+ Carolina; Dr. Walji is Associate Professor and Associate Dean for Technology
+ Services and Informatics, The University of Texas School of Dentistry at
+ Houston; Dr. O'Neill is Professor Emerita, The University of Texas School of
+ Dentistry at Houston; and Dr. Kalenderian is Chair and Associate Professor,
+ Department of Oral Health Policy and Epidemiology, Harvard School of Dental
+ Medicine."
+          },
+          {
+            name ml "Kalenderian E",
+            affil str "Dr. Reed is Associate Professor, Department of
+ Pediatrics-Neonatology, College of Medicine, and Department of Stomatology,
+ James B. Edwards College of Dental Medicine, Medical University of South
+ Carolina; Dr. Adibi is Associate Professor, Department of General Practice
+ and Dental Public Health, The University of Texas School of Dentistry at
+ Houston; Dr. Coover is Assistant Professor, Department of Oral
+ Rehabilitation, James B. Edwards College of Dental Medicine, Medical
+ University of South Carolina; Dr. Gellin is Professor and Chair, Department
+ of Stomatology, James B. Edwards College of Dental Medicine, Medical
+ University of South Carolina; Ms. Wahlquist is Research Instructor,
+ Department of Public Health Sciences, Medical University of South Carolina;
+ Dr. AbdulRahiman was Research Assistant, Department of Oral Health Policy and
+ Epidemiology and student, Harvard School of Dental Medicine at the time of
+ this study; Dr. Hamil is Assistant Professor, Department of Stomatology,
+ James B. Edwards College of Dental Medicine, Medical University of South
+ Carolina; Dr. Walji is Associate Professor and Associate Dean for Technology
+ Services and Informatics, The University of Texas School of Dentistry at
+ Houston; Dr. O'Neill is Professor Emerita, The University of Texas School of
+ Dentistry at Houston; and Dr. Kalenderian is Chair and Associate Professor,
+ Department of Oral Health Policy and Epidemiology, Harvard School of Dental
+ Medicine."
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "J Dent Educ",
+          ml-jta "J Dent Educ",
+          issn "1930-7837",
+          name "Journal of dental education"
+        },
+        imp {
+          date std {
+            year 2015,
+            month 6
+          },
+          volume "79",
+          issue "6",
+          pages "686-696",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2015,
+                month 6,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2015,
+                month 6,
+                day 3,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2015,
+                month 8,
+                day 12,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 26034034,
+        pii "79/6/686",
+        other {
+          db "pmc",
+          tag str "PMC4593405"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS723440"
+        }
+      }
+    },
+    abstract "The Consortium for Oral Health Research and Informatics (COHRI)
+ is leading the way in use of the Dental Diagnostic System (DDS) terminology
+ in the axiUm electronic health record (EHR). This collaborative pilot study
+ had two aims: 1) to investigate whether use of the DDS terms positively
+ impacted predoctoral dental students' critical thinking skills measured by
+ the Health Sciences Reasoning Test (HSRT), and 2) to refine study protocols.
+ The study design was a natural experiment with cross-sectional data
+ collection using the HSRT for 15 classes (2013-17) of students at three
+ dental schools. Characteristics of students who had been exposed to the DDS
+ terms were compared with students who had not, and the differences were
+ tested by t-tests or chi-square tests. Generalized linear models were used to
+ evaluate the relationship between exposure and outcome on the overall
+ critical thinking score. The results showed that exposure was significantly
+ related to overall score (p=0.01), with not-exposed students having lower
+ mean overall scores. This study thus demonstrated a positive impact of using
+ the DDS terminology in an EHR on the critical thinking skills of predoctoral
+ dental students in three COHRI schools as measured by their overall score on
+ the HSRT. These preliminary findings support future research to further
+ evaluate a proposed model of critical thinking in clinical dentistry. ",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        mp TRUE,
+        term "Clinical Coding"
+      },
+      {
+        term "Cross-Sectional Studies"
+      },
+      {
+        mp TRUE,
+        term "Dental Records"
+      },
+      {
+        term "Diagnosis, Differential"
+      },
+      {
+        term "Diagnosis, Oral",
+        qual {
+          {
+            mp TRUE,
+            subh "classification"
+          }
+        }
+      },
+      {
+        term "Education, Dental"
+      },
+      {
+        mp TRUE,
+        term "Electronic Health Records"
+      },
+      {
+        term "Female"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Judgment"
+      },
+      {
+        term "Male"
+      },
+      {
+        term "Patient Care Planning"
+      },
+      {
+        term "Physical Examination"
+      },
+      {
+        term "Pilot Projects"
+      },
+      {
+        term "Program Evaluation"
+      },
+      {
+        term "Students, Dental",
+        qual {
+          {
+            mp TRUE,
+            subh "psychology"
+          }
+        }
+      },
+      {
+        term "Systematized Nomenclature of Medicine"
+      },
+      {
+        mp TRUE,
+        term "Terminology as Topic"
+      },
+      {
+        mp TRUE,
+        term "Thinking"
+      },
+      {
+        term "Young Adult"
+      }
+    },
+    idnum {
+      "UL1 TR000062/TR/NCATS NIH HHS",
+      "UL1 TR000371/TR/NCATS NIH HHS"
+    },
+    pmid 26034034,
+    pub-type {
+      "Comparative Study",
+      "Journal Article",
+      "Multicenter Study",
+      "Research Support, N.I.H., Extramural"
+    },
+    status medline
+  }
+}
+

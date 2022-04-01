@@ -1,0 +1,193 @@
+
+Pubmed-entry ::= {
+  pmid 18271498,
+  medent {
+    em std {
+      year 2008,
+      month 2,
+      day 15,
+      hour 9,
+      minute 0
+    },
+    cit {
+      title {
+        name "Supporting the emergence of dental informatics with an online
+ community."
+      },
+      authors {
+        names std {
+          {
+            name ml "Spallek H",
+            affil str "Center for Dental Informatics, School of Dental
+ Medicine, University of Pittsburgh, Pittsburgh, PA 15261, USA.
+ hspallek@pitt.edu"
+          },
+          {
+            name ml "Irwin JY"
+          },
+          {
+            name ml "Schleyer T"
+          },
+          {
+            name ml "Butler BS"
+          },
+          {
+            name ml "Weiss PM"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Int J Comput Dent",
+          ml-jta "Int J Comput Dent",
+          issn "1463-4201",
+          name "International journal of computerized dentistry"
+        },
+        imp {
+          date std {
+            year 2007,
+            month 7
+          },
+          volume "10",
+          issue "3",
+          pages "247-264",
+          language "eng,ger",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus pubmed,
+              date std {
+                year 2008,
+                month 2,
+                day 15,
+                hour 9,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2008,
+                month 3,
+                day 19,
+                hour 9,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2008,
+                month 2,
+                day 15,
+                hour 9,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 18271498,
+        pii "833374",
+        other {
+          db "pmc",
+          tag str "PMC2367256"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS39582"
+        }
+      }
+    },
+    abstract "Dental Informatics (DI) is the application of computer and
+ information science to improve dental practice, research, education, and
+ program administration. As an emerging field, dental informatics faces many
+ challenges and barriers to establishing itself as a full-fledged discipline;
+ these include the small number of geographically dispersed DI researchers as
+ well as the lack of DI professional societies and DI-specific journals.
+ E-communities have the potential to overcome these obstacles by bringing
+ researchers together at a resources hub and giving them the ability to share
+ information, discuss topics, and find collaborators. In this paper, we
+ discuss our assessment of the information needs of individuals interested in
+ DI and discuss their expectations for an e-community so that we can design an
+ optimal electronic infrastructure for the Dental Informatics Online Community
+ (DIOC). The 256 survey respondents indicated they prefer electronic resources
+ over traditional print material to satisfy their information needs. The most
+ frequently expected benefits from participation in the DIOC were general
+ information (85% of respondents), peer networking (31.1%), and identification
+ of potential collaborators and/or research opportunities (23.2%). We are
+ currently building the DIOC electronic infrastructure: a searchable
+ publication archive and the learning center have been created, and the people
+ directory is underway. Readers are encouraged to access the DIOC Website at
+ www.dentalinformatics.com and initiate a discussion with the authors of this
+ paper.",
+    mesh {
+      {
+        term "Adult"
+      },
+      {
+        term "Cooperative Behavior"
+      },
+      {
+        term "Dental Informatics",
+        qual {
+          {
+            mp TRUE,
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        term "Dental Research",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          },
+          {
+            subh "statistics & numerical data"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Dentistry"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Information Storage and Retrieval",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Internet"
+      },
+      {
+        term "Middle Aged"
+      },
+      {
+        term "Social Change"
+      }
+    },
+    idnum {
+      "G08 LM008667/LM/NLM NIH HHS",
+      "G08 LM008667-01A1/LM/NLM NIH HHS",
+      "1 G08 LM008667-01 A1/LM/NLM NIH HHS"
+    },
+    pmid 18271498,
+    pub-type {
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    },
+    status medline
+  }
+}
+

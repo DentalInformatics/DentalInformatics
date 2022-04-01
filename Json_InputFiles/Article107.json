@@ -1,0 +1,179 @@
+
+Pubmed-entry ::= {
+  pmid 18998943,
+  medent {
+    em std {
+      year 2008,
+      month 11,
+      day 13,
+      hour 9,
+      minute 0
+    },
+    cit {
+      title {
+        name "A preliminary comparison of speech recognition functionality in
+ dental practice management systems."
+      },
+      authors {
+        names std {
+          {
+            name ml "Irwin JY",
+            affil str "University of Pittsburgh, Pittsburgh, PA, USA."
+          },
+          {
+            name ml "Schleyer T"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "AMIA Annu Symp Proc",
+          ml-jta "AMIA Annu Symp Proc",
+          issn "1942-597X",
+          name "AMIA ... Annual Symposium proceedings. AMIA Symposium"
+        },
+        imp {
+          date std {
+            year 2008,
+            month 11,
+            day 6
+          },
+          pages "988",
+          language "eng",
+          pubstatus epublish,
+          history {
+            {
+              pubstatus received,
+              date std {
+                year 2008,
+                month 3,
+                day 14
+              }
+            },
+            {
+              pubstatus accepted,
+              date std {
+                year 2008,
+                month 6,
+                day 17
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2008,
+                month 11,
+                day 13,
+                hour 9,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2010,
+                month 1,
+                day 9,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus other,
+              date std {
+                year 2008,
+                month 11,
+                day 13,
+                hour 9,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 18998943
+      }
+    },
+    abstract "In this study, we examined speech recognition functionality in
+ four leading dental practice management systems. Twenty dental students used
+ voice to chart a simulated patient with 18 findings in each system. Results
+ show it can take over a minute to chart one finding and that users frequently
+ have to repeat commands. Limited functionality, poor usability and a high
+ error rate appear to retard adoption of speech recognition in dentistry.",
+    mesh {
+      {
+        term "Algorithms"
+      },
+      {
+        term "Artificial Intelligence"
+      },
+      {
+        term "Dental Informatics",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Information Storage and Retrieval",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Medical History Taking",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        mp TRUE,
+        term "Medical Records Systems, Computerized"
+      },
+      {
+        mp TRUE,
+        term "Natural Language Processing"
+      },
+      {
+        term "Pattern Recognition, Automated",
+        qual {
+          {
+            mp TRUE,
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Pennsylvania"
+      },
+      {
+        term "Pilot Projects"
+      },
+      {
+        mp TRUE,
+        term "Speech Recognition Software"
+      }
+    },
+    idnum {
+      "5T15-LM007059-19/LM/NLM NIH HHS"
+    },
+    pmid 18998943,
+    pub-type {
+      "Comparative Study",
+      "Evaluation Study",
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    },
+    status medline
+  }
+}
+

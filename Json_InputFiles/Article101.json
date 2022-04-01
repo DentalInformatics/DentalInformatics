@@ -1,0 +1,165 @@
+
+Pubmed-entry ::= {
+  pmid 21893778,
+  medent {
+    em std {
+      year 2011,
+      month 9,
+      day 7,
+      hour 6,
+      minute 0
+    },
+    cit {
+      title {
+        name "Medical providers' dental information needs: a baseline survey."
+      },
+      authors {
+        names std {
+          {
+            name ml "Acharya A",
+            affil str "Biomedical Informatics Research Center, Marshfield
+ Clinic Research Foundation, Marshfield Clinic, Marshfield, WI 54449, USA.
+ acharya.amit@mcrf.mfldcin.edu"
+          },
+          {
+            name ml "Mahnke A"
+          },
+          {
+            name ml "Chyou PH"
+          },
+          {
+            name ml "Rottscheit C"
+          },
+          {
+            name ml "Starren JB"
+          }
+        }
+      },
+      from journal {
+        title {
+          iso-jta "Stud Health Technol Inform",
+          ml-jta "Stud Health Technol Inform",
+          issn "0926-9630",
+          name "Studies in health technology and informatics"
+        },
+        imp {
+          date std {
+            year 2011
+          },
+          volume "169",
+          pages "387-391",
+          language "eng",
+          pubstatus ppublish,
+          history {
+            {
+              pubstatus other,
+              date std {
+                year 2011,
+                month 9,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus pubmed,
+              date std {
+                year 2011,
+                month 9,
+                day 7,
+                hour 6,
+                minute 0
+              }
+            },
+            {
+              pubstatus medline,
+              date std {
+                year 2011,
+                month 12,
+                day 14,
+                hour 6,
+                minute 0
+              }
+            }
+          }
+        }
+      },
+      ids {
+        pubmed 21893778,
+        other {
+          db "pmc",
+          tag str "PMC4124731"
+        },
+        other {
+          db "mid",
+          tag str "NIHMS614449"
+        }
+      }
+    },
+    abstract "Articulation of medical and dental practices has been strongly
+ called for based on the many oral-systemic connections. With the rapid
+ development and adoption of electronic health records, the feasibility of
+ integrating medical and dental patient data should be strongly considered.
+ The objective of this study was to develop an initial understanding of the
+ medical providers' core dental information needs and opinion of integrated
+ medical-dental electronic health record (iEHR) environment in their workflow.
+ This was achieved by administering a 13 question survey to a group of 1,197
+ medical care providers employed by Marshfield Clinic in Wisconsin, United
+ States. The survey received a response rate of 35%. The responses were
+ analyzed based on provider 'Role' and 'Specialty'. The majority of the
+ respondents felt the need for patient's dental information to coordinate or
+ provide effective medical care. An integrated electronic health record
+ environment could facilitate this holistic patient care approach.",
+    mesh {
+      {
+        mp TRUE,
+        term "Access to Information"
+      },
+      {
+        term "Attitude of Health Personnel"
+      },
+      {
+        mp TRUE,
+        term "Dental Records"
+      },
+      {
+        term "Electronic Health Records"
+      },
+      {
+        term "Humans"
+      },
+      {
+        term "Medical Informatics",
+        qual {
+          {
+            subh "methods"
+          }
+        }
+      },
+      {
+        term "Oral Health"
+      },
+      {
+        term "Practice Patterns, Physicians'"
+      },
+      {
+        term "Surveys and Questionnaires"
+      },
+      {
+        term "Systems Integration"
+      },
+      {
+        term "Wisconsin"
+      }
+    },
+    idnum {
+      "UL1 TR000427/TR/NCATS NIH HHS"
+    },
+    pmid 21893778,
+    pub-type {
+      "Journal Article"
+    },
+    status medline
+  }
+}
+
